@@ -1,0 +1,15 @@
+#snack{
+    position: fixed;
+    margin-left: 20px;
+    bottom: 30px;
+    color: blue;
+    background-color: brown;
+    size: 300cm;
+    visibility: hidden;
+    align-items: center;
+}
+
+#snack.showw{
+    visibility: visible;
+   
+}
